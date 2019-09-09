@@ -1,0 +1,9 @@
+C:\Users\102570136\Downloads\CIV-OO-Challenge-1-master\Shape_Class_Library\bin\Debug\netcoreapp2.1\Shape_Class_Library.deps.json
+C:\Users\102570136\Downloads\CIV-OO-Challenge-1-master\Shape_Class_Library\bin\Debug\netcoreapp2.1\Shape_Class_Library.dll
+C:\Users\102570136\Downloads\CIV-OO-Challenge-1-master\Shape_Class_Library\bin\Debug\netcoreapp2.1\Shape_Class_Library.pdb
+C:\Users\102570136\Downloads\CIV-OO-Challenge-1-master\Shape_Class_Library\obj\Debug\netcoreapp2.1\Shape_Class_Library.csprojAssemblyReference.cache
+C:\Users\102570136\Downloads\CIV-OO-Challenge-1-master\Shape_Class_Library\obj\Debug\netcoreapp2.1\Shape_Class_Library.csproj.CoreCompileInputs.cache
+C:\Users\102570136\Downloads\CIV-OO-Challenge-1-master\Shape_Class_Library\obj\Debug\netcoreapp2.1\Shape_Class_Library.AssemblyInfoInputs.cache
+C:\Users\102570136\Downloads\CIV-OO-Challenge-1-master\Shape_Class_Library\obj\Debug\netcoreapp2.1\Shape_Class_Library.AssemblyInfo.cs
+C:\Users\102570136\Downloads\CIV-OO-Challenge-1-master\Shape_Class_Library\obj\Debug\netcoreapp2.1\Shape_Class_Library.dll
+C:\Users\102570136\Downloads\CIV-OO-Challenge-1-master\Shape_Class_Library\obj\Debug\netcoreapp2.1\Shape_Class_Library.pdb
